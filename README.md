@@ -13,6 +13,11 @@ A 2D physics-based game built using Python and Pygame.
 - Python
 - Pygame
 
+
+## Screenshot
+![Game Screenshot](screenshots/game.png)
+
+
 ## How to Run
 1. Install pygame:
    pip install pygame
